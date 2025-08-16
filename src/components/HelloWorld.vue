@@ -17,11 +17,8 @@ const count = ref(0)
     </p>
   </div>
 
-  <p>
-    Check out
-    <a href="https://vuejs.org/guide/quick-start.html#local" target="_blank"
-      >create-vue</a
-    >, the official Vue + Vite starter
+  <p style="font: bold 1.2em sans-serif">
+    This is  Vue + Vite starter template with TypeScript, Vue Router, Pinia and fixed bugs of initial setup.
   </p>
   <p>
     Learn more about IDE Support for Vue in the
